@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # check expired domain
-# @quydo
+# @quydox
 
 [ -z "$(which whois)" ] && echo "please install whois command" && exit 0
 
